@@ -1,7 +1,11 @@
 AWS S3 Bucket Create
+
 Login to AWS Console    https://aws.amazon.com/console/
+
 Go to search bar and type S3
+
 Click Create bucket
+
 Bucket name(unique, lowercase + no spaces)
 Region is default
 Uncheck "Block all public access"
